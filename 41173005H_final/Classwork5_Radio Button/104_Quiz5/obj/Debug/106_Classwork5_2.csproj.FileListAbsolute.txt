@@ -1,0 +1,56 @@
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe.config
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\obj\Debug\_106_Classwork5_2.Form1.resources
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Properties.Resources.resources
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.GenerateResource.Cache
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.exe
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.pdb
+D:\sdwu\師大\教學\精修課程\物件導向程式設計\106Classwork\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe.config
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.pdb
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\_106_Classwork5_2.Form1.resources
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Properties.Resources.resources
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.exe
+C:\Users\User\Desktop\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.pdb
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe.config
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.pdb
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.AssemblyReference.cache
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\_106_Classwork5_2.Form1.resources
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Properties.Resources.resources
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.GenerateResource.cache
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.CoreCompileInputs.cache
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.exe
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.pdb
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Form2.resources
+C:\Users\abc99\Downloads\Classwork5_Radio Button (1)\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Form3.resources
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe.config
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.pdb
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.AssemblyReference.cache
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_106_Classwork5_2.Form1.resources
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Form2.resources
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Form3.resources
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Properties.Resources.resources
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.GenerateResource.cache
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.CoreCompileInputs.cache
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.exe
+C:\Users\abc99\Downloads\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.pdb
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe.config
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.exe
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\bin\Debug\104_Quiz5.pdb
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.AssemblyReference.cache
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_106_Classwork5_2.Form1.resources
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Form2.resources
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Form3.resources
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\_104_Quiz5.Properties.Resources.resources
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.GenerateResource.cache
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\106_Classwork5_2.csproj.CoreCompileInputs.cache
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.exe
+C:\Users\abc99\OneDrive\桌面\41173005H_final\Classwork5_Radio Button\104_Quiz5\obj\Debug\104_Quiz5.pdb
